@@ -50,7 +50,7 @@ Each function is documented; type for example `rlct?` in a Sage session to read 
 
 ## Running without installing Sage
 
-You can run the notebook online on [CoCalc](https://cocalc.com), which has SageMath preinstalled. Upload `rlct.py` and `rlct.ipynb` to a CoCalc project, then open the notebook with the SageMath kernel.
+You can run the notebook online on [CoCalc](https://cocalc.com), which has SageMath preinstalled. 
 
 ## Tests
 
